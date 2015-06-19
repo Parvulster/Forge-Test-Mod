@@ -1,1 +1,0 @@
-In the correct package, put a 16x16 png named after the item/block it is supposed to be.
