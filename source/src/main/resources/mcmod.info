@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pt",
+  "name": "Parvulster's Test Mod",
+  "description": "Testing everything. :P",
+  "version": "1.0.1",
+  "mcversion": "1.8",
+  "url": "http://www.parvulster.tk",
+  "updateUrl": "",
+  "authorList": ["Parvulster"],
+  "credits": "MrCrayfish for helping a bunch with his mod tutorials, mod by Parvulster",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
