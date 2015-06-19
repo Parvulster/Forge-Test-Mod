@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "pt:items/coordinate_saver"
+        "layer0": "pt:items/test_food"
     },
     "display": {
         "thirdperson": {
